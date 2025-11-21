@@ -224,6 +224,3 @@ def menu_principal():
                 break
             case _: print("Opción inválida.")
 
-# --- INICIO DEL PROGRAMA ---
-# Descomentar la siguiente línea para ejecutar la aplicación:
-# menu_principal()
